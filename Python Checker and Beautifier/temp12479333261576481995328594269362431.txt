@@ -1,0 +1,14 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+def surface(lng, lr)->int:
+	"""
+		sbvusebrub
+	"""
+	return(lng*lr)
+def surface2(lng, lr):
+	return(lng*lr)
+print(" ? longueur du rectangle : ")
+longueur = input()
+ 
+largeur = int(input(" ? largeur du rectangle : "))
+print(surface(longueur, largeur))

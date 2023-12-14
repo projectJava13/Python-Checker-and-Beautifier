@@ -1,0 +1,28 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+def surface(lng, lr)->int:	
+	"""
+	xQXQ   x
+	dWd
+	FIN
+	
+	return(lng*lr)
+
+def surface2(lng, lr):	
+	"""
+	vlakewibebal
+	cbwicbw
+	kcbe cawbcw
+	"""
+	return(lng*lr)
+def surface4(lng, lr):
+	"""
+	cbakwuec
+	cbbc
+	"""
+	return(lng*lr)
+print(" ? longueur du rectangle : ")
+longueur = input()
+ 
+largeur = int(input(" ? largeur du rectangle : "))
+print(surface(longueur, largeur))
